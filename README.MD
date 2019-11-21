@@ -1,12 +1,14 @@
 In this News website, I have worked on 3 functionalities s :-
 
-my news site cintains TOP 5 GLOBAL NEWS ,TOP 5 TECH NEWS and SERCH NEWS BY COUNTRY functionalities 
+my news site contains TOP 5 GLOBAL NEWS ,TOP 5 TECH NEWS and SEaRCH NEWS BY COUNTRY functionalities 
 
 Technologies Used:
 HTML,CSS,JAVASCRIPT,AJAX,JSON,jQuery
 
 API's
 https://newsapi.org/
+
+
 https://currentsapi.services/en/docs/
 
 
